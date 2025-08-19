@@ -33,5 +33,4 @@ Fishing has helped me realize that, it's not for me. Sure Il go once or twice a 
 [Playlist of my top 10 favorite songs](https://open.spotify.com/playlist/7yfPAqIuWnzbsri25YKiOf?si=675cb5e7ab784999&pt=30ee57e8732c19e44a449c872a818e69)
 
 ## Collage of Interests
-Download image onto desktop, drag into explorer
-Exclamationmark square bracket describe the image in the bracket, file name in double parentheses
+![My Collage of Interests](Collage.pdf)
